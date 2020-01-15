@@ -1,0 +1,11 @@
+div {
+	border-style: solid;
+	margin: 5px;
+}
+* {
+	visibility: none;
+
+}
+img{
+	visibility: block;
+}
