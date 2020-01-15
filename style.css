@@ -1,0 +1,25 @@
+div 
+ {
+  color: red;
+  border-style: dashed;
+  margin:5px; 
+
+   }
+   div > p #p=third{
+  visibility: hidden;
+
+   }
+   h1 {
+  visibility: hidden;
+
+   }
+   #second p*{
+  visibility: hidden;
+}
+* {
+ display:none;
+}
+
+img {
+ display:block;
+}
